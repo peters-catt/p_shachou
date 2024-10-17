@@ -11,7 +11,7 @@ Whether it's simulations or process optimization, I dive into every problem like
 📐 Mathematics: Addicted to calculus, differential equations, and statistics. "Math is the code of reality. Without it, we’re just running on an infinite loop.”)
  
 
-"Sometimes the system isn't hacked; it's just broken from the start." — Mr. Robot
+Sometimes the system isn't hacked; it's just broken from the start.
 
 
 🛠 Skills and Tools:

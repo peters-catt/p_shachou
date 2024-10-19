@@ -2,12 +2,15 @@
 
 
 💻 Open-Source: Linux is more than just an OS—it's a way of life.
+
 💣 Pen-Testing: Exploring the art of offensive security and vulnerability hunting.
+
 🧑‍🔬 Chemical Engineering isn’t just my major; it's a passion.
 
 Whether it's simulations or process optimization, I dive into every problem like it's a cryptic code waiting to be deciphered.
 
 🤖 Python for flexibility, C++ for power—both are essential weapons in life.
+
 📐 Mathematics: Addicted to calculus, differential equations, and statistics. Math is the code of reality. Without it, we’re on an infinite loop.
  
 Sometimes the system isn't hacked; it's just broken from the start.

@@ -21,4 +21,4 @@ Kali Linux: Inorder to protect it, first you need to destroy it
 
 Windows Integration: Making Linux and Windows work together in a seamless symphony.
 
-Instagram: p_shachou
+IG: p_shachou

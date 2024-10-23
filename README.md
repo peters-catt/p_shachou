@@ -20,5 +20,3 @@ Linux (Debian, Arch, Ubuntu): Navigating Linux is like breathing—instinctual a
 Kali Linux: Inorder to protect it, first you need to destroy it
 
 Windows Integration: Making Linux and Windows work together in a seamless symphony.
-
-IG: p_shachou

@@ -1,6 +1,5 @@
 "Hacking Tyrell Wellick... You’d think it would be tricky, but turns out, they haven’t updated their servers since Shellshock. People like him—they always think they're untouchable. But in reality, they’re just lines of vulnerable code waiting to be exploited." — Mr. Robot
 
-
 💻 Open-Source: Linux is more than just an OS—it's a way of life.
 
 💣 Pen-Testing: Exploring the art of offensive security and vulnerability hunting.

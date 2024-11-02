@@ -6,6 +6,7 @@
 
 🧑‍🔬 Chemical Engineering isn’t just my major; it's a passion.
 
+
 Whether it's simulations or process optimization, I dive into every problem like it's a cryptic code waiting to be deciphered.
 
 🤖 Python for flexibility, C++ for power—both are essential weapons in life.

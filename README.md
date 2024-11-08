@@ -17,6 +17,7 @@ Sometimes the system isn't hacked; it's just broken from the start.
 
 
 🛠 Skills and Tools:
+
 Linux (Debian, Arch, Ubuntu): Navigating Linux is like breathing—instinctual and essential.
 Kali Linux: Inorder to protect it, first you need to destroy it
 

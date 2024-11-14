@@ -11,7 +11,8 @@ Whether it's simulations or process optimization, I dive into every problem like
 
 🤖 Python for flexibility, C++ for power—both are essential weapons in life.
 
-📐 Mathematics: Addicted to calculus, differential equations, and statistics. Math is the code of reality. Without it, we’re on an infinite loop.
+📐 Mathematics: 
+Addicted to calculus, differential equations, and statistics. Math is the code of reality. Without it, we’re on an infinite loop.
  
 Sometimes the system isn't hacked; it's just broken from the start.
 

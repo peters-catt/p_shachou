@@ -6,6 +6,7 @@
 
 🧑‍🔬 化学工程: 不只是我的专业，更是我的激情所在。
 
+
 Whether it's simulations or optimizing processes, I dive into every challenge like decoding a cryptic sequence. Each problem is an encrypted puzzle, and I’m here to crack it.
 
 🤖 Python for flexibility, C++ for raw power—both are essential weapons in my toolkit.

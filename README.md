@@ -16,7 +16,6 @@ Whether it's simulations or optimizing processes, I dive into every challenge li
 Sometimes, the system isn’t hacked; it’s broken from the start.
 
 🛠 技能和工具:
-
 Linux (Debian, Arch, Ubuntu): 使用 Linux 就像呼吸般自然和必要。
 Kali Linux: 想要守护它，先得懂得摧毁它。
 Windows Integration: 让 Linux 和 Windows 和谐共处，奏出无缝的协奏曲。

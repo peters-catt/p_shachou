@@ -1,28 +1,39 @@
-"Hacking Tyrell Wellick?
-You’d think it’d be a challenge. Turns out, they haven’t patched their servers since Shellshock. People like him—they walk around like they’re untouchable. But strip away the suits and bravado, and they’re just fragile strings of code, begging to be exploited."
-— Mr. Robot
+"We’re all living in each other’s paranoia. They call me paranoid, but what if I’m right?"
+— Elliot Alderson, Mr. Robot
+
+"Say my name."
+— Walter White, Breaking Bad
 
 💻 开源革命
-Linux 不是一款软件，它是一种哲学，一种对自由与创造的追求。
+Linux isn’t just an operating system; it’s a mindset—a rebellion against closed walls, a commitment to freedom and innovation. As Elliot would say, "Power belongs to the people who take it."
 
 💣 渗透测试
-不仅是技术，更是一场智力的博弈，掌控攻防之间的艺术。
+Penetration testing isn’t merely about breaking systems—it’s the ultimate chess match. A dance between art and intellect. Like Walter White, "I’m not in danger; I am the danger."
 
 🧑‍🔬 化学工程
-不只是我的专业，更是我解构与重塑世界的方式。
+To me, chemical engineering is hacking the physical world—deconstructing reality and rebuilding it on my terms. "Chemistry is the study of transformation," said Walter White. And that’s exactly what I do: transform complexity into simplicity, chaos into order.
 
-Whether I’m modeling a chemical process or reverse-engineering a network vulnerability, I approach every challenge like decrypting an enigmatic cipher. To me, every problem is a locked vault, and every solution is the master key.
+"People think chaos is random, but it’s not. It’s a pattern waiting to be decrypted."
+— Elliot Alderson, Mr. Robot
 
-🤖 Python for elegance. C++ for dominance. My toolkit is a hybrid arsenal, built for precision and power.
+🔐 Whether modeling a chemical process or reverse-engineering a network vulnerability, I see every challenge as an enigma. Problems are locked vaults; solutions are the master keys. "There’s a flaw in every system. You just have to find it."
+
+🤖 Python for elegance. C++ for dominance. My arsenal is a symphony of precision and power, designed to crack open the impossible.
+"When you see a good move, look for a better one." — Elliot Alderson, Mr. Robot
 
 📐 数学
-从微积分到统计学，数学是现实世界的底层语言。如果编程是输入，数学就是背后的算法。没有它，我们只是在死循环中徒劳。
+From calculus to statistics, mathematics is the universal language. If programming is the syntax, math is the algorithm underneath. Without it, we’re just "running scripts in a dead loop."
 
-Not every system is hacked. Some are doomed from their first line of code.
+"The world is one big hack. The code? The equations. The exploit? Human greed."
+— Elliot Alderson, Mr. Robot
 
 🛠 技能与工具
 
-Linux: Debian, Arch, Ubuntu—掌握这些发行版，就如同掌握呼吸般自然。
-Kali Linux: 想守护系统，得先学会如何攻破它。
-Windows Integration: 在 Linux 和 Windows 之间搭建桥梁，让它们演奏出无缝协作的交响乐。
-Each keystroke is a revolution. Each command, a step closer to mastery.
+Linux: Debian, Arch, Ubuntu—mastering these distros feels as natural as breathing. "It’s not the tool; it’s how you use it."
+Kali Linux: To defend a system, you must first learn how to tear it apart.
+Windows Integration: Bridging Linux and Windows into seamless harmony—a symphony of cooperation born from chaos.
+"Every keystroke is a revolution. Every command, a step toward mastery."
+— Elliot Alderson, Mr. Robot
+
+"I am the one who knocks."
+— Walter White, Breaking Bad

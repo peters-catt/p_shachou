@@ -10,7 +10,6 @@ Linux isn’t just an operating system; it’s a mindset—a rebellion against c
 💣 渗透测试
 Penetration testing isn’t merely about breaking systems—it’s the ultimate chess match. A dance between art and intellect. Like Walter White, "I’m not in danger; I am the danger."
 
-
 🧑‍🔬 化学工程
 To me, chemical engineering is hacking the physical world—deconstructing reality and rebuilding it on my terms. "Chemistry is the study of transformation," said Walter White. And that’s exactly what I do: transform complexity into simplicity, chaos into order.
 
@@ -27,7 +26,6 @@ From calculus to statistics, mathematics is the universal language. If programmi
 
 "The world is one big hack. The code? The equations. The exploit? Human greed."
 — Elliot Alderson, Mr. Robot
-
 
 🛠 技能与工具
 

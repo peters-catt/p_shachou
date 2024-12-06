@@ -28,7 +28,6 @@ From calculus to statistics, mathematics is the universal language. If programmi
 — Elliot Alderson, Mr. Robot
 
 🛠 技能与工具
-
 Linux: Debian, Arch, Ubuntu—mastering these distros feels as natural as breathing. "It’s not the tool; it’s how you use it."
 Kali Linux: To defend a system, you must first learn how to tear it apart.
 Windows Integration: Bridging Linux and Windows into seamless harmony—a symphony of cooperation born from chaos.

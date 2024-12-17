@@ -27,7 +27,6 @@ From calculus to statistics, math is the universal foundation. If programming is
 "The world is one big hack. The code? Equations. The exploit? Human greed."
 — Elliot Alderson, Mr. Robot
 
-
 🛠 Skills & Tools
 
 Linux: Mastering distros like Debian, Arch, and Ubuntu feels as intuitive as breathing.

@@ -28,7 +28,6 @@ From calculus to statistics, math is the universal foundation. If programming is
 — Elliot Alderson, Mr. Robot
 
 🛠 Skills & Tools
-
 Linux: Mastering distros like Debian, Arch, and Ubuntu feels as intuitive as breathing.
 Kali Linux: To protect a system, you must first learn how to break it.
 Windows Integration: Bridging Linux and Windows into seamless cooperation—a harmony born from chaos.

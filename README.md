@@ -15,7 +15,6 @@ Whether modeling chemical processes or reverse-engineering vulnerabilities, I se
 "There’s a flaw in every system. You just have to find it."
 
 🤖 My Arsenal
-
 Python: For precision and elegance.
 C++: For dominance and power.
 This toolkit is my symphony of code—designed to crack open the impossible.

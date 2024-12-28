@@ -22,7 +22,6 @@ This toolkit is my symphony of code—designed to crack open the impossible.
 
 📐 Mathematics
 From calculus to statistics, math is the universal foundation. If programming is syntax, math is the logic driving it. Without it, we’d all be "running scripts in a dead loop."
-
 "The world is one big hack. The code? Equations. The exploit? Human greed."
 — Elliot Alderson, Mr. Robot
 

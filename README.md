@@ -6,7 +6,6 @@ Pen testing isn’t just about breaking systems; it’s a strategic duel—a ble
 
 🧪 Chemical Engineering
 To me, chemical engineering is like hacking the physical world—dismantling reality to rebuild it on my terms. As Walter White put it, "Chemistry is the study of transformation." That’s my craft: turning complexity into clarity and chaos into structure.
-
 "People think chaos is random, but it’s not. It’s a pattern waiting to be decrypted."
 — Elliot Alderson, Mr. Robot
 

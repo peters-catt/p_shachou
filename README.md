@@ -11,7 +11,6 @@ To me, chemical engineering is like hacking the physical world—dismantling rea
 — Elliot Alderson, Mr. Robot
 
 🔐 Cracking Challenges
-
 Whether modeling chemical processes or reverse-engineering vulnerabilities, I see every obstacle as a puzzle to solve. Locked vaults have flaws, and solutions are the master keys.
 "There’s a flaw in every system. You just have to find it."
 
